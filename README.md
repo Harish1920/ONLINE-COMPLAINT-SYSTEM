@@ -1,0 +1,1 @@
+Integrating the online complaint system project into GitHub encompasses merging Spring Boot backend functionalities with ReactJS frontend components. This integration ensures efficient version control, collaboration, and project management, facilitating seamless development and enhancement of the complaint system
